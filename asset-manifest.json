@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firstdeploy_gh_myproject/static/css/main.fe17c633.css",
+    "main.js": "/firstdeploy_gh_myproject/static/js/main.9d0af872.js",
+    "index.html": "/firstdeploy_gh_myproject/index.html",
+    "main.fe17c633.css.map": "/firstdeploy_gh_myproject/static/css/main.fe17c633.css.map",
+    "main.9d0af872.js.map": "/firstdeploy_gh_myproject/static/js/main.9d0af872.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe17c633.css",
+    "static/js/main.9d0af872.js"
+  ]
+}
